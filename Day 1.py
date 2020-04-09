@@ -15,7 +15,7 @@ async def on_message(message):
     if message.author == client.user:
         return
     if 'reaction' in extensions:
-        if message.author.id == 523312243698434084:
+        if message.author.id == ****:
             pass
         else:
             emote = '💩'
