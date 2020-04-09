@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 client = commands.Bot(command_prefix='.')
-token = 'Njg2ODQ4MDU3OTQxMTY0MDMy.XmfvJg.XYZtcbwdC95pAMl7UuwcvxwYr_w'
+token = '****'
 
 
 @client.event
